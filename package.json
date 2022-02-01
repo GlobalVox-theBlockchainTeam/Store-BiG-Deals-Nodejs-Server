@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@project-serum/anchor": "^0.20.1",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.31.0",
+    "@types/mysql": "^2.15.19",
+    "axios": "^0.24.0",
+    "bip39": "^3.0.4",
+    "body-parser": "^1.19.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "morgan": "~1.9.1",
+    "mysqli": "^3.1.4",
+    "nodemailer": "^6.7.2",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
